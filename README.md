@@ -1,4 +1,4 @@
-![Screenshot (351)](https://github.com/user-attachments/assets/49ccc055-7824-4289-b896-7e2027112463)![Screenshot (349)](https://github.com/user-attachments/assets/13510bba-235d-41fc-a629-14bdbdf2afc5)# Java Programming Solutions
+# Java Programming Solutions
 
 This repository contains various Java programming solutions for common exercises, focusing on Object-Oriented Programming (OOP) concepts like **inheritance**, **polymorphism**, **encapsulation**, **abstraction**, and more. The examples cover a wide range of scenarios, from simple loops to more complex systems like a retail store management system.
 
